@@ -1,0 +1,4 @@
+profile: local
+
+logging:
+  level: TRACE
